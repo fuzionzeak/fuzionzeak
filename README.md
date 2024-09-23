@@ -21,8 +21,9 @@ Problem-Solving: Tackling challenges and finding innovative solutions keeps me m
 Tech Innovations: I love staying updated with the latest trends and technologies in the IT world.
 🚀 Projects
 
-La Gourmetise: Projet.
-Quartier privé: Projet.
+La Gourmetise: School Project.
+
+Quartier privé: School Project.
 📫 Get in Touch
 
 Email: anthonyheuff@gmail.com
