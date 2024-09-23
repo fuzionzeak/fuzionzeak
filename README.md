@@ -1,4 +1,5 @@
 👋 About Me
+
 Hello! I'm Anthony Heuff, a dedicated and passionate IT student currently pursuing my second year of BTS SIO (Services Informatiques aux Organisations).
 My journey in the world of technology has been fueled by my curiosity and love for everything related to computers, coding, and solving problems.
 
