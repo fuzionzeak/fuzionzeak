@@ -24,8 +24,11 @@ Tech Innovations: I love staying updated with the latest trends and technologies
 La Gourmetise: School Project.
 
 Quartier privé: School Project.
+
 📫 Get in Touch
 
 Email: anthonyheuff@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/anthony-heuff-373a50164/
+
 Feel free to reach out to me if you want to collaborate on a project or just chat about technology!
