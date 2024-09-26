@@ -19,6 +19,7 @@ Project Management: Familiar with Agile methodologies
 Programming: I enjoy writing clean and efficient code and constantly learning new languages and frameworks.
 Problem-Solving: Tackling challenges and finding innovative solutions keeps me motivated.
 Tech Innovations: I love staying updated with the latest trends and technologies in the IT world.
+
 🚀 Projects
 
 La Gourmetise: School Project.
