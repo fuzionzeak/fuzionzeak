@@ -7,6 +7,7 @@ My journey in the world of technology has been fueled by my curiosity and love f
 
 BTS SIO (Services Informatiques aux Organisations) - Second Year
 Specialization: SLAM (Solutiono Logicielle et Application Métiers)
+
 💻 Skills
 
 Programming Languages: C#, Java, PHP, HTML/CSS, Javascript
@@ -14,6 +15,7 @@ Web Development: Front-end and back-end development
 Database Management: SQL, MySQL
 IT Support: Troubleshooting, network configuration
 Project Management: Familiar with Agile methodologies
+
 🌟 Interests
 
 Programming: I enjoy writing clean and efficient code and constantly learning new languages and frameworks.
